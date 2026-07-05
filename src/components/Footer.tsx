@@ -27,7 +27,7 @@ export default function Footer() {
           <div className="lg:col-span-1">
             <div className="flex items-center gap-3 mb-5">
               <img
-                src="/wmremove-transformed.jpeg"
+                src="/logo.jpg"
                 alt="Safe Speed Trans Cargo"
                 className="h-12 w-auto object-contain bg-white rounded-lg p-1"
               />

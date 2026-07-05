@@ -51,7 +51,7 @@ export default function Header() {
           {/* Logo */}
           <a href="#home" className="flex items-center gap-3">
             <img
-              src="/wmremove-transformed.jpeg"
+              src="/logo.jpg"
               alt="Safe Speed Trans Cargo"
               className="h-12 w-auto object-contain"
             />
